@@ -1,0 +1,1 @@
+Lung cancer is one of the most prevalent forms of cancer globally, making its early detection critical for effective treatment. This project aims to predict the likelihood of lung cancer based on patient data using machine learning techniques. We employ a Random Forest classifier to achieve this, leveraging a dataset containing several risk factors and demographic attributes.
